@@ -20,12 +20,11 @@
     }
   ],
   "require": {
-    "php": "^5.6"
+    "php": "5.6"
   },
   "autoload": {
     "psr-4": {
       "Symfony\\Component\\Dotenv\\": ""
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
